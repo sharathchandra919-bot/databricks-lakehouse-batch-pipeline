@@ -1,5 +1,3 @@
-👇
-
 📌 Databricks Lakehouse Batch Pipeline
 
 This project demonstrates an end-to-end batch data engineering pipeline built using Databricks and Delta Lake, following real production design principles.
